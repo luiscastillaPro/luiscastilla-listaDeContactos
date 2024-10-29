@@ -1,3 +1,8 @@
+<img src="https://github.com/user-attachments/assets/b7aa4c76-bbc9-45ee-8e47-a9a1fdabd6aa" />
+
+<img src="https://github.com/user-attachments/assets/80da2588-65f3-43ba-a541-4afbdda3cc13" />
+
+
 # WebApp boilerplate with React JS
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/react-hello-webapp.git)
 
